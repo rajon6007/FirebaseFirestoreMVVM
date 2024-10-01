@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539780711200",
+    "project_id": "fir-firestoremvvm-1d9e3",
+    "storage_bucket": "fir-firestoremvvm-1d9e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539780711200:android:bc34a36c05040e27fd8d45",
+        "android_client_info": {
+          "package_name": "com.example.firebasefirestoremvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP_-GSGE1tSF9lqr0AaXfYXXWV85MMPLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
